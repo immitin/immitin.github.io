@@ -1,9 +1,6 @@
 <link rel="stylesheet" 
       h ref="styles.css">
-      
-body {
-font-style: italic;
-}
+
 
 ...The animals in my life:
 
